@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "compile": "babel src --presets react --out-dir Static", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
